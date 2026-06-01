@@ -25,7 +25,7 @@
 
 - 🌐 &nbsp; **语言能力 (Languages):** 英语 (English) | 中文 (Chinese - HSK 5)
 - 📊 &nbsp; **核心优势 (Core Skills):** 数据分析 (Data Analysis) | 跨部门 multi-task 协作 (Cross-functional Collaboration) | 海外达人营销 (KOL Marketing)
-- ⚡ &nbsp; **广告投放 (Media Buy - Learning & Ready):** 目前正深度研究 Facebook Ads、Google Ads 及 TikTok Ads 的广告投放机制与流量分发算法，已做好随时实操转型的准备。
+- ⚡   Facebook 广告投放 (潜力新人): 具备天然的数据敏感度，目前正深入研究 Facebook Ads 核心指标 (CTR, CPM, CPC, ROI) 的优化逻辑。渴望将过往的中资跨国项目协作经验，转化为对 Facebook 广告后台的快速上手与敏捷执行力。
 - 🛠️ &nbsp; **设计工具 (Design Tools):** Adobe Photoshop | Adobe Illustrator (基础)
 
 <br>
