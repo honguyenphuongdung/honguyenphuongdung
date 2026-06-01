@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm IVY!</h1>
 <br>
 
-<!-- Khắc phục lỗi ô vuông '?' bằng cách dùng biểu đồ đóng góp trực tiếp từ GitHub -->
+<!-- Biểu đồ đóng góp trực tiếp từ GitHub theo Username mới -->
 <p align="center">
-   <a href="https://github.com/lesyeuxdebleus00-coder">
-   <img src="https://ghchart.rshah.org/Visual-Studio/lesyeuxdebleus00-coder" alt="Ivy's GitHub Contributions Chart" />
+   <a href="https://github.com/honguyenphuongdung">
+   <img src="https://ghchart.rshah.org/Visual-Studio/honguyenphuongdung" alt="Ivy's GitHub Contributions Chart" />
    </a>
 </p>
 
-<!-- 📄 按钮：查看/下载 PDF 版简历 (Nút bấm đã được chuyển sang tiếng Trung) -->
+<!-- 📄 按钮：查看/下载 PDF 版简历 -->
 <p align="center">
    <a href="https://canva.link/h8pmm7x84kvaklb" target="_blank">
       <img src="https://img.shields.io/badge/📄%20查看%20&%20下载%20PDF%20版简历-👉%20点击此处-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
@@ -25,7 +25,7 @@
 
 - 🌐 &nbsp; **语言能力 (Languages):** 英语 (English) | 中文 (Chinese - HSK 5)
 - 📊 &nbsp; **核心优势 (Core Skills):** 数据分析 (Data Analysis) | 跨部门 multi-task 协作 (Cross-functional Collaboration) | 海外达人营销 (KOL Marketing)
-- ⚡   Facebook 广告投放 (潜力新人): 具备天然的数据敏感度，目前正深入研究 Facebook Ads 核心指标 (CTR, CPM, CPC, ROI) 的优化逻辑。渴望将过往的中资跨国项目协作经验，转化为对 Facebook 广告后台的快速上手与敏捷执行力。
+- ⚡ &nbsp; **Facebook 广告投放 (潜力新人):** 具备天然的数据敏感度，目前正深入研究 Facebook Ads 核心指标 (CTR, CPM, CPC, ROI) 的优化逻辑。渴望将过往的中资跨国项目协作经验，转化为对 Facebook 广告后台的快速上手与敏捷执行力。
 - 🛠️ &nbsp; **设计工具 (Design Tools):** Adobe Photoshop | Adobe Illustrator (基础)
 
 <br>
